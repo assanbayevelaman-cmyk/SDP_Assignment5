@@ -50,6 +50,6 @@ Our calculator has no lifecycle and no self-transitions, so Strategy is the corr
 **Gained:** algorithms can be swapped at runtime, tested alone, and added without touching existing code.  
 **Cost:** one interface + one small class per operation - more files than a switch, but each is trivial. Worth it when operations grow.  
 
-## GitHub Repository
+## 6. GitHub Repository
 
 https://github.com/assanbayevelaman-cmyk/SDP_Assignment5
