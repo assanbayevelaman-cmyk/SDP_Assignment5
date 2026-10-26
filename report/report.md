@@ -11,7 +11,7 @@ The user picks one at runtime. This fits Strategy because the operations are int
 
 ## 2. UML Class Diagram
 
-![](src/main/java/org/example/report/img.png)
+![](img.png)
 
 ## 3. Clean Code Principles
 
