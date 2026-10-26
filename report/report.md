@@ -17,7 +17,7 @@ The user picks one at runtime. This fits Strategy because the operations are int
 
 **1. No conditionals - polymorphism instead.**  
 Before:  
-&emsp;if (op.equals("add))  
+&emsp;if (op.equals("add"))  
 &emsp;&emsp;return a + b;  
 &emsp;else if (op.equals("sub"))  
 &emsp;&emsp;return a - b;  
